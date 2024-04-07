@@ -2,9 +2,6 @@
 
 My name is Michael. I'm a data analyst working in SQL, Python, and Tableau.
 
-LinkedIn: https://www.linkedin.com/in/michaelraibon/
-Website: https://mraibon.github.io/
-
 Please see a list of my portfolio projects below:
 
 * [Horror Movie Data Analysis](https://github.com/mraibon/Horror-Movies): Python, Tableau
@@ -14,6 +11,8 @@ Please see a list of my portfolio projects below:
 * [Spotify Data](https://github.com/mraibon/SpotifyStreamingData): Tableau
 * [8 Week SQL Challenge](https://github.com/mraibon/8-Week-SQL-Challenge): SQL
 * [Billboards Top 100 Game](https://github.com/mraibon/Billboard-Top-100-Game): Python
+
+Find me on [LinkedIn](https://www.linkedin.com/in/michaelraibon/) or visit my [website](https://mraibon.github.io/)!
 
 <!--
 **mraibon/mraibon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
