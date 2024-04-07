@@ -5,7 +5,7 @@ My name is Michael. I'm a data analyst working in SQL, Python, and Tableau.
 LinkedIn: https://www.linkedin.com/in/michaelraibon/
 Website: https://mraibon.github.io/
 
-Please see a list of my projects below:
+Please see a list of my portfolio projects below:
 
 * [Horror Movie Data Analysis](https://github.com/mraibon/Horror-Movies): Python, Tableau
 * [NBA Player Stats](https://github.com/mraibon/NBAPlayerAnalysis): SQL, Python
